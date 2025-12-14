@@ -29,7 +29,7 @@ export function DifficultySelect({ value, onChange }: DifficultySelectProps) {
         {Array.from({ length: difficulty }).map((_, i) => (
           <img 
             key={i}
-            src="/cuban-star.svg"
+            src="cuban-star.svg"
             alt="difficulty star"
             style={{ width: '16px', height: '16px' }}
           />

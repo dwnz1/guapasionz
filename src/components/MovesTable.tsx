@@ -66,7 +66,7 @@ export function MovesTable({ moves }: MovesTableProps) {
         {Array.from({ length: difficulty }).map((_, i) => (
           <img 
             key={i}
-            src="/cuban-star.svg"
+            src="cuban-star.svg"
             alt="difficulty star"
             style={{ width: '20px', height: '20px' }}
           />
@@ -132,9 +132,9 @@ export function MovesTable({ moves }: MovesTableProps) {
         paddingTop: '20px'
       }}>
         <picture>
-          <source media="(max-width: 768px)" srcSet="/guapasionz-logo-mobile.png" />
+          <source media="(max-width: 768px)" srcSet="guapasionz-logo-mobile.png" />
           <img 
-            src="/guapasionz-logo-desktop.png" 
+            src="guapasionz-logo-desktop.png" 
             alt="GuapasioNZ" 
             className="logo-img"
           />
