@@ -1,0 +1,38 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # triggers on pushes to main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Check out the repo
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2️⃣ Set up Node.js (if using React/Vue)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4️⃣ Build the project
+      - name: Build
+        run: npm run build
+
+      # 5️⃣ Deploy to gh-pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist        # adjust if your build output is different
+          cname: www.guapasio.nz      # automatically creates CNAME
