@@ -1,0 +1,17 @@
+<!-- Cuba-themed "star in a right-pointing triangle" icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" role="img">
+  <!-- red triangle pointing right -->
+  <polygon fill="#C62828" points="2,2 2,22 20,12"></polygon>
+  <!-- white 5-point star centered inside the triangle -->
+  <polygon fill="#ffffff" points="
+    9.000,8.500
+    9.882,10.787
+    12.329,10.919
+    10.427,12.464
+    11.057,14.832
+    9.000,13.500
+    6.943,14.832
+    7.573,12.464
+    5.671,10.919
+    8.118,10.787"></polygon>
+</svg>
