@@ -11,7 +11,7 @@ export function MovesLoader() {
   useEffect(() => {
     const loadJSON = async () => {
       try {
-        const response = await fetch('/rueda-moves.json');
+        const response = await fetch('rueda-moves.json');
         if (!response.ok) {
           throw new Error('Failed to load JSON file');
         }
