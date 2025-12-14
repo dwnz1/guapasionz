@@ -67,7 +67,7 @@
     "spanishName": "Cucaracha",
     "englishName": "Cockroach",
     "description": "Stomp on 5 count towards center of circle",
-    "youtubeLink": "",
+    "youtubeLink": "https://youtu.be/TQyELgW2cmw?t=26",
     "difficulty": 1,
     "categoryId": "styling"
   },
@@ -115,7 +115,7 @@
     "spanishName": "Sombrero",
     "englishName": "Hat",
     "description": "Arm-over-head patterns resembling placing a hat.",
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=Toehw_ZrEuQ",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
@@ -123,7 +123,7 @@
     "spanishName": "Sombrero con mambo",
     "englishName": "Hat with mambo",
     "description": "Sombrero followed by mambo-style footwork.",
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=1O8YYsy0Hjs",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
@@ -131,7 +131,7 @@
     "spanishName": "Kentucky",
     "englishName": "Kentucky",
     "description": "Named figure involving wrap-and-release patterns.",
-    "youtubeLink": "",
+    "youtubeLink": "https://youtu.be/sK1SlAIE0LA?t=116",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
@@ -147,7 +147,7 @@
     "spanishName": "Enchufla pingüino",
     "englishName": "Penguin enchufla",
     "description": "Enchufla finished with arms held like \"penguin wings.\"",
-    "youtubeLink": "",
+    "youtubeLink": "https://youtu.be/ERnOGiG9n3g?t=43",
     "difficulty": 1,
     "categoryId": "thematic"
   },
@@ -155,7 +155,7 @@
     "spanishName": "Foto",
     "englishName": "Photo",
     "description": "Pose-like ending where dancers \"freeze\" briefly.",
-    "youtubeLink": "",
+    "youtubeLink": "https://youtu.be/zY2_C9N1ymA?t=7",
     "difficulty": 1,
     "categoryId": "thematic"
   },
@@ -246,15 +246,7 @@
     "youtubeLink": "",
     "difficulty": 3,
     "categoryId": "turn-complex"
-  },
-  {
-    "spanishName": "Fly",
-    "englishName": "Fly",
-    "description": "Named move with a distinctive sweeping arm or lift-style motion (varies by school).",
-    "youtubeLink": "",
-    "difficulty": 2,
-    "categoryId": "thematic"
-  },
+  }, 
   {
     "spanishName": "Dame dos con dos",
     "englishName": "Give me two with two",
@@ -266,26 +258,26 @@
   {
     "spanishName": "Dile que sí",
     "englishName": "Tell her yes",
-    "description": "Return-to-closed-position opposite of Dile Que No.",
-    "youtubeLink": "",
+    "description": "Right turn the follow into closed/arriba position",
+    "youtubeLink": "https://www.youtube.com/watch?v=TaL3v8RWCsE",
     "difficulty": 1,
     "categoryId": "basic"
   },
   {
     "spanishName": "Una pa' arriba",
     "englishName": "One upward",
-    "description": "Move that finishes with a raised-arm exit.",
-    "youtubeLink": "",
+    "description": "Partner exchange in opposite direction, so go back to follower on the lead's left, then cross them back into guapea",
+    "youtubeLink": "https://www.youtube.com/watch?v=VBe3PkP8Bi4",
     "difficulty": 1,
-    "categoryId": "styling"
+    "categoryId": "partner-exchange"
   },
   {
     "spanishName": "Taro",
     "englishName": "Taro",
-    "description": "Named figure; pattern varies by rueda school.",
-    "youtubeLink": "",
-    "difficulty": "",
-    "categoryId": "turn-complex"
+    "description": "In closed position, raise followers right arm, lead travels forward under her arm to next follow",
+    "youtubeLink": "https://www.youtube.com/watch?v=tCnZZHEfbQI",
+    "difficulty": "1",
+    "categoryId": "partner-exchange"
   },
   {
     "spanishName": "Arriba",
@@ -331,7 +323,7 @@
     "spanishName": "Suegra",
     "englishName": "Mother-in-law",
     "description": "Playful follow-change variant often added after Familia combinations.",
-    "youtubeLink": "https://www.youtube.com/shorts/vZZr2IVOrOE",
+    "youtubeLink": "https://www.youtube.com/shorts/vFVLBQuacOA",
     "difficulty": 2,
     "categoryId": "partner-exchange"
   },
@@ -339,15 +331,15 @@
     "spanishName": "Montana",
     "englishName": "Mountain",
     "description": "Named rueda figure with elevated or stacked arm pathways (varies by school).",
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=AYHiFki5_5s",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
   {
     "spanishName": "Directo",
     "englishName": "Direct",
-    "description": "Lead passes follower directly through with a simple forward motion.",
-    "youtubeLink": "",
+    "description": "Lead passes follower directly through with a simple forward motion. Lead switches to follower on their left",
+    "youtubeLink": "https://www.youtube.com/watch?v=vJtpjq9WUUw",
     "difficulty": 1,
     "categoryId": "turn-simple"
   },
@@ -363,7 +355,7 @@
     "spanishName": "Un fly",
     "englishName": "One Fly",
     "description": "Single execution of the Fly motion with a sweeping or lifting-style flourish.",
-    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "youtubeLink": "https://youtu.be/rObwppvylWE?t=6",
     "difficulty": 2,
     "categoryId": "thematic"
   },
@@ -371,7 +363,7 @@
     "spanishName": "Dos fly",
     "englishName": "Two Fly",
     "description": "Two consecutive Fly motions performed back-to-back.",
-    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "youtubeLink": "https://www.youtube.com/watch?v=iNoHTzgnPgY",
     "difficulty": 2,
     "categoryId": "thematic"
   },
@@ -379,8 +371,32 @@
     "spanishName": "Tres fly",
     "englishName": "Three Fly",
     "description": "Extended Fly sequence with three consecutive Fly motions.",
-    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "youtubeLink": "https://www.youtube.com/watch?v=iNoHTzgnPgY",
     "difficulty": 3,
     "categoryId": "thematic"
+  },
+  {
+    "spanishName": "Enchufla el centro",
+    "englishName": "Enchufla to the center",
+    "description": "Enchufla where the follower is led toward the center of the rueda circle. Directional calls such as Izquierda or Derecha may be added while in the center.",
+    "youtubeLink": "https://www.youtube.com/watch?v=QiVcXhMrJx4",
+    "difficulty": 2,
+    "categoryId": "turn-simple"
+  },
+  {
+    "spanishName": "Izquierda",
+    "englishName": "Left",
+    "description": "Directional call given while in Enchufla el Centro; leader rotates to the left before exiting.",
+    "youtubeLink": "https://www.youtube.com/watch?v=QiVcXhMrJx4",
+    "difficulty": 1,
+    "categoryId": "directional"
+  },
+  {
+    "spanishName": "Derecha",
+    "englishName": "Right",
+    "description": "Directional call given while in Enchufla el Centro; leader rotates to the right before exiting.",
+    "youtubeLink": "https://www.youtube.com/watch?v=QiVcXhMrJx4",
+    "difficulty": 1,
+    "categoryId": "directional"
   }
 ]
