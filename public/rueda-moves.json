@@ -302,5 +302,85 @@
     "youtubeLink": "https://youtu.be/iKfS6vNJBLg?t=7",
     "difficulty": 1,
     "categoryId": "directional"
+  },
+    {
+    "spanishName": "Prima",
+    "englishName": "Cousin",
+    "description": "Partner change move used with Hermana and Familia in rueda combinations.",
+    "youtubeLink": "https://www.youtube.com/watch?v=4ETtxg3IwQY",
+    "difficulty": 1,
+    "categoryId": "partner-exchange"
+  },
+  {
+    "spanishName": "Hermana",
+    "englishName": "Sister",
+    "description": "Often paired with Prima; another partner change figure in rueda combos.",
+    "youtubeLink": "https://www.youtube.com/watch?v=4ETtxg3IwQY",
+    "difficulty": 1,
+    "categoryId": "partner-exchange"
+  },
+  {
+    "spanishName": "Familia",
+    "englishName": "Family",
+    "description": "Combination pattern where Prima, Hermana and Familia are danced in sequence.",
+    "youtubeLink": "https://www.youtube.com/watch?v=HD2pf_ZTgUQ",
+    "difficulty": 2,
+    "categoryId": "partner-exchange"
+  },
+  {
+    "spanishName": "Suegra",
+    "englishName": "Mother-in-law",
+    "description": "Playful follow-change variant often added after Familia combinations.",
+    "youtubeLink": "https://www.youtube.com/shorts/vZZr2IVOrOE",
+    "difficulty": 2,
+    "categoryId": "partner-exchange"
+  },
+  {
+    "spanishName": "Montana",
+    "englishName": "Mountain",
+    "description": "Named rueda figure with elevated or stacked arm pathways (varies by school).",
+    "youtubeLink": "",
+    "difficulty": 2,
+    "categoryId": "turn-complex"
+  },
+  {
+    "spanishName": "Directo",
+    "englishName": "Direct",
+    "description": "Lead passes follower directly through with a simple forward motion.",
+    "youtubeLink": "",
+    "difficulty": 1,
+    "categoryId": "turn-simple"
+  },
+  {
+    "spanishName": "Lazo con bulla",
+    "englishName": "Lasso with noise",
+    "description": "Arm loop (Lazo) pattern accented with claps, vocal calls, or playful styling.",
+    "youtubeLink": "",
+    "difficulty": 2,
+    "categoryId": "thematic"
+  },
+  {
+    "spanishName": "Un fly",
+    "englishName": "One Fly",
+    "description": "Single execution of the Fly motion with a sweeping or lifting-style flourish.",
+    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "difficulty": 2,
+    "categoryId": "thematic"
+  },
+  {
+    "spanishName": "Dos fly",
+    "englishName": "Two Fly",
+    "description": "Two consecutive Fly motions performed back-to-back.",
+    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "difficulty": 2,
+    "categoryId": "thematic"
+  },
+  {
+    "spanishName": "Tres fly",
+    "englishName": "Three Fly",
+    "description": "Extended Fly sequence with three consecutive Fly motions.",
+    "youtubeLink": "https://www.youtube.com/watch?v=51lJ_32VRwc",
+    "difficulty": 3,
+    "categoryId": "thematic"
   }
 ]
