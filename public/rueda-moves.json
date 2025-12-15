@@ -362,7 +362,7 @@
   {
     "spanishName": "Un fly",
     "englishName": "One Fly",
-    "description": "Single execution of the Fly motion with a sweeping or lifting-style flourish.",
+    "description": "Clap hands on 1 count.",
     "youtubeLink": "https://youtu.be/rObwppvylWE?t=6",
     "difficulty": 2,
     "categoryId": "thematic"
@@ -370,7 +370,7 @@
   {
     "spanishName": "Dos fly",
     "englishName": "Two Fly",
-    "description": "Two consecutive Fly motions performed back-to-back.",
+    "description": "Clap hands on 1-2 counts.",
     "youtubeLink": "https://www.youtube.com/watch?v=iNoHTzgnPgY",
     "difficulty": 2,
     "categoryId": "thematic"
@@ -378,7 +378,7 @@
   {
     "spanishName": "Tres fly",
     "englishName": "Three Fly",
-    "description": "Extended Fly sequence with three consecutive Fly motions.",
+    "description": "Clap hands on 1-2-3 counts.",
     "youtubeLink": "https://www.youtube.com/watch?v=iNoHTzgnPgY",
     "difficulty": 3,
     "categoryId": "thematic"
