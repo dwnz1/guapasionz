@@ -2,7 +2,7 @@
   {
     "spanishName": "Guapea",
     "englishName": "Guapea",
-    "description": "Basic Cuban salsa step used in Rueda; dancers step slightly back and forward.",
+    "description": "Basic Cuban salsa step used in Rueda; dancers step slightly back and forward. Hands closest to middle of circle meet on the 5.",
     "youtubeLink": "https://youtu.be/YwxB1MSytYA?t=157",
     "difficulty": 1,
     "categoryId": "basic"
@@ -42,7 +42,7 @@
   {
     "spanishName": "Coca-cola",
     "englishName": "Coca-cola",
-    "description": "A travelling 360° turn; follower rotates fully around leader.",
+    "description": "Deli que no and leader leads follow in a left hand turn, leader steps to right and uses right arm to rotate follow around leader.",
     "youtubeLink": "https://www.youtube.com/shorts/7MODqLfyTQQ",
     "difficulty": 2,
     "categoryId": "turn-simple"
@@ -98,7 +98,7 @@
   {
     "spanishName": "Para ti para mí",
     "englishName": "For you for me",
-    "description": "Alternating display turns for leader and follower.",
+    "description": "Alternating display turns for leader and follower. Enchufla -> Leader goes under left arm, swapping positions with follow -> another enchufla -> dile que no",
     "youtubeLink": "https://www.youtube.com/watch?v=kIQKkblnBAA",
     "difficulty": 2,
     "categoryId": "turn-complex"
@@ -114,7 +114,7 @@
   {
     "spanishName": "Sombrero",
     "englishName": "Hat",
-    "description": "Arm-over-head patterns resembling placing a hat.",
+    "description": "Lead switches hands, right hand turn followed by arm-over-head pattern resembling placing a hat.",
     "youtubeLink": "https://www.youtube.com/watch?v=Toehw_ZrEuQ",
     "difficulty": 2,
     "categoryId": "turn-complex"
@@ -162,7 +162,7 @@
   {
     "spanishName": "Enchufla matrix",
     "englishName": "Matrix enchufla",
-    "description": "Enchufla where follower/leader does a Matrix-style lean.",
+    "description": "",
     "youtubeLink": "",
     "difficulty": 2,
     "categoryId": "thematic"
@@ -178,39 +178,39 @@
   {
     "spanishName": "Dame una arriba",
     "englishName": "Give me one up top",
-    "description": "Partner change ending with a raised-arm finish.",
-    "youtubeLink": "",
+    "description": "Dame followed by partner exchange in opposite direction, so go back to follower on the lead's left, then cross them back into guapea",
+    "youtubeLink": "https://www.youtube.com/watch?v=VBe3PkP8Bi4",
     "difficulty": 2,
     "categoryId": "partner-exchange"
   },
   {
     "spanishName": "Lazo",
     "englishName": "Lasso",
-    "description": "Circular arm-loop pattern resembling a lasso.",
-    "youtubeLink": "",
+    "description": "Circular arm-loop pattern resembling a lasso. Enchufla then lead goes under their left arm, still facing forward, and leads the follow back around into dile que no.",
+    "youtubeLink": "https://www.youtube.com/watch?v=Z-1AfMndPpQ",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
   {
     "spanishName": "Uno",
     "englishName": "One",
-    "description": "First figure in a numbered sequence set.",
-    "youtubeLink": "",
-    "difficulty": "",
+    "description": "Switch hands, using right hand bring the follow in front of leader.  Leader backsteps to the left and takes the follows left hand with their left, switching sides as the follow pivots on the 3 and 7.  Afer 3 full 8 counts, end in dile que no.",
+    "youtubeLink": "https://www.youtube.com/watch?v=dWuU-HG9Pp4",
+    "difficulty": "3",
     "categoryId": "sequence"
   },
   {
     "spanishName": "Dos",
     "englishName": "Two",
-    "description": "Second figure in that sequence.",
-    "youtubeLink": "",
-    "difficulty": "",
+    "description": "Enchufla and switch hands with leader ending up in front of follow in shadow position.  Leader backsteps with follow on opposite side for two 8 counts, then raises right arm for follow to end up ready for sombrero, dile que no to finish",
+    "youtubeLink": "https://www.youtube.com/watch?v=E6bkKUTMZJw",
+    "difficulty": "3",
     "categoryId": "sequence"
   },
   {
     "spanishName": "Entrada",
     "englishName": "Entrance",
-    "description": "Entry move into a new pattern; leader brings follower into the circle center.",
+    "description": "Often comes from paso de son, lead crosses (front) on 3 and 7.  The follow pivots on the 3 and 7.  One the 1-2-3, they're walking towards center of circle, walking back on 5-6-7.",
     "youtubeLink": "https://www.youtube.com/shorts/n217YVPxQMg",
     "difficulty": 2,
     "categoryId": "turn-simple"
@@ -218,23 +218,31 @@
   {
     "spanishName": "Vacila",
     "englishName": "Tease / Show off",
-    "description": "Solo-style turn where follower \"shows off.\"",
-    "youtubeLink": "",
+    "description": "Lead uses left hand to lead follow in a right turn",
+    "youtubeLink": "https://www.youtube.com/shorts/ZxZ92-WfwR8",
     "difficulty": 2,
     "categoryId": "turn-simple"
   },
   {
     "spanishName": "Siete",
     "englishName": "Seven",
-    "description": "Classic Cuban figure with a wrapped turn sequence.",
-    "youtubeLink": "",
+    "description": "Using left hand, lead follow in a right turn, using right hand on her shoulder on the 3 count, then she unwraps on the 5-6-7",
+    "youtubeLink": "https://www.youtube.com/watch?v=LDS6UR7UhKI",
+    "difficulty": 2,
+    "categoryId": "turn-complex"
+  },
+  {
+    "spanishName": "Siete coca cola",
+    "englishName": "Seven Coca-Cola",
+    "description": "Using left hand, lead follow in a right turn, using right hand on her shoulder on the 3 count, then lead her in a left turn on the unwrap with left hand, into a coca cola,
+    "youtubeLink": "https://www.youtube.com/watch?v=LDS6UR7UhKI",
     "difficulty": 2,
     "categoryId": "turn-complex"
   },
   {
     "spanishName": "Pasito",
     "englishName": "Little step",
-    "description": "Small step transition or styling move.",
+    "description": "Leader changes hands, leads follow in a right turn, then hooks left arm with follows right arm and rotates around for another 8 count, into dile que no to finish",
     "youtubeLink": "",
     "difficulty": 1,
     "categoryId": "styling"
@@ -243,7 +251,7 @@
     "spanishName": "Setenta",
     "englishName": "Seventy",
     "description": "One of the most iconic long Rueda figures with complex wraps/turns.",
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=Mywysg1TSGU",
     "difficulty": 3,
     "categoryId": "turn-complex"
   }, 
@@ -262,15 +270,7 @@
     "youtubeLink": "https://www.youtube.com/watch?v=TaL3v8RWCsE",
     "difficulty": 1,
     "categoryId": "basic"
-  },
-  {
-    "spanishName": "Una pa' arriba",
-    "englishName": "One upward",
-    "description": "Partner exchange in opposite direction, so go back to follower on the lead's left, then cross them back into guapea",
-    "youtubeLink": "https://www.youtube.com/watch?v=VBe3PkP8Bi4",
-    "difficulty": 1,
-    "categoryId": "partner-exchange"
-  },
+  }, 
   {
     "spanishName": "Taro",
     "englishName": "Taro",
@@ -286,6 +286,14 @@
     "youtubeLink": "https://youtu.be/iKfS6vNJBLg?t=7",
     "difficulty": 1,
     "categoryId": "directional"
+  },
+  {
+  "spanishName": "Evelyn",
+  "englishName": "Evelyn",
+  "description": "Enchufla followed by leader performing a right turn and switching hands, into a single-handed dile que no.",
+  "youtubeLink": "https://www.youtube.com/shorts/wmriijHAXU0",
+  "difficulty": 2,
+  "categoryId": "partner-exchange"
   },
   {
     "spanishName": "Abajo",
