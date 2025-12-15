@@ -132,9 +132,9 @@ export function MovesTable({ moves }: MovesTableProps) {
         paddingTop: '20px'
       }}>
         <picture>
-          <source media="(max-width: 768px)" srcSet="guapasionz-logo-mobile.png" />
+          <source media="(max-width: 768px)" srcSet="mobile_banner.png" />
           <img 
-            src="guapasionz-logo-desktop.png" 
+            src="desktop_banner.png" 
             alt="GuapasioNZ" 
             className="logo-img"
           />
