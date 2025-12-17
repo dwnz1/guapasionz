@@ -1,5 +1,13 @@
 [
   {
+    "spanishName": "Pa'l medio",
+    "englishName": "To the Middle",
+    "description": "Often used to start the Rueda. From posición de casino (closed), both leader and follower step together toward the centre of the rueda on 1, then step back out on 5.",
+    "youtubeLink": "https://www.youtube.com/watch?v=H5OPu50Ih_Y",
+    "difficulty": 1,
+    "categoryId": "basic"
+  },
+  {
     "spanishName": "Guapea",
     "englishName": "Guapea",
     "description": "Basic Cuban salsa step used in Rueda; dancers step slightly back and forward. Hands closest to middle of circle meet on the 5.",
@@ -392,17 +400,17 @@
     "categoryId": "turn-simple"
   },
   {
-    "spanishName": "Izquierda",
+    "spanishName": "Izquierda (Mujeres)",
     "englishName": "Left",
-    "description": "Directional call given while in Enchufla el Centro; leader rotates to the left before exiting.",
+    "description": "Directional call given while in Enchufla el Centro; leader rotates to the left before exiting. Include Mujeres for follows to rotate instead.",
     "youtubeLink": "https://www.youtube.com/watch?v=QiVcXhMrJx4",
     "difficulty": 1,
     "categoryId": "directional"
   },
   {
-    "spanishName": "Derecha",
+    "spanishName": "Derecha (Mujeres)",
     "englishName": "Right",
-    "description": "Directional call given while in Enchufla el Centro; leader rotates to the right before exiting.",
+    "description": "Directional call given while in Enchufla el Centro; leader rotates to the right before exiting. Include Mujeres for follows to rotate instead.",
     "youtubeLink": "https://www.youtube.com/watch?v=QiVcXhMrJx4",
     "difficulty": 1,
     "categoryId": "directional"
