@@ -120,12 +120,12 @@
     "categoryId": "turn-complex"
   },
   {
-    "spanishName": "Pásala",
+    "spanishName": "Páseala",
     "englishName": "Pass her",
-    "description": "Simple partner pass across to the next leader.",
-    "youtubeLink": "",
+    "description": "During dile que no, lead uses theirs left hand to lead the follow around their body (follow walks behind the lead in an anti-clockwise circle), switching to their right hand during the turn, then switching back to left hand at the end of rotation into guapea.",
+    "youtubeLink": "https://www.youtube.com/watch?v=hFC5i8v0FfU",
     "difficulty": 1,
-    "categoryId": "partner-exchange"
+    "categoryId": "turn-simple"
   },
   {
     "spanishName": "Sombrero",
@@ -178,7 +178,7 @@
   {
     "spanishName": "Enchufla matrix",
     "englishName": "Matrix enchufla",
-    "description": "Enchufla followed by the leader waving his right hand across the follow from left to right as she leans back under his arm.  Lean back goes for 8 counts.",
+    "description": "Enchufla followed by the leader waving their right hand across the follow from left to right as the follow leans back under their arm.  Lean back goes for 8 counts.",
     "youtubeLink": "https://youtu.be/XzsFMy8yQ48?t=131",
     "difficulty": 2,
     "categoryId": "thematic"
@@ -187,7 +187,7 @@
     "spanishName": "Enchufla con mambo",
     "englishName": "Mambo enchufla",
     "description": "Enchufla with added mambo footwork on 1-3-5-7 as you switch partner.",
-    "youtubeLink": "https://youtu.be/XzsFMy8yQ48?t=67",
+    "youtubeLink": "https://www.youtube.com/watch?v=NsvBtuZfF9A",
     "difficulty": 2,
     "categoryId": "partner-exchange"
   },
@@ -242,7 +242,7 @@
   {
     "spanishName": "Siete",
     "englishName": "Seven",
-    "description": "Using left hand, lead follow in a right turn, using right hand on her shoulder on the 3 count, then she unwraps on the 5-6-7",
+    "description": "Using left hand, lead follow in a right turn, using right hand to block follow's right shoulder on the 3 count, then follow unwraps on the 5-6-7",
     "youtubeLink": "https://www.youtube.com/watch?v=LDS6UR7UhKI",
     "difficulty": 2,
     "categoryId": "turn-simple"
@@ -250,7 +250,7 @@
   {
     "spanishName": "Siete coca cola",
     "englishName": "Seven Coca-Cola",
-    "description": "Using left hand, lead follow in a right turn, using right hand on her shoulder on the 3 count, then lead her in a left turn on the unwrap with left hand, into a coca cola.",
+    "description": "Siete followed by left turn (using lead's left arm) into a coca cola.",
     "youtubeLink": "https://www.youtube.com/watch?v=LDS6UR7UhKI",
     "difficulty": 2,
     "categoryId": "turn-simple"
@@ -362,7 +362,7 @@
   {
     "spanishName": "Directo",
     "englishName": "Direct",
-    "description": "Lead passes follower directly through with a simple forward motion. Lead pulls the follow forward on the 1 as they switch to follower on their left",
+    "description": "Lead pulls the follow forward on the 1 as they switch to follower on their left.",
     "youtubeLink": "https://www.youtube.com/watch?v=vJtpjq9WUUw",
     "difficulty": 1,
     "categoryId": "partner-exchange"
@@ -370,9 +370,9 @@
   {
     "spanishName": "Lazo con bulla",
     "englishName": "Lasso with noise",
-    "description": "Arm loop (Lazo) pattern accented with claps, vocal calls, or playful styling.",
+    "description": "",
     "youtubeLink": "",
-    "difficulty": 2,
+    "difficulty": 1,
     "categoryId": "thematic"
   },
   {
