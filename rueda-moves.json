@@ -226,7 +226,7 @@
   {
     "spanishName": "Entrada",
     "englishName": "Entrance",
-    "description": "Often comes from paso de son, lead crosses (front) on 3 and 7.  The follow pivots on the 3 and 7.  One the 1-2-3, they're walking towards center of circle, walking back on 5-6-7.",
+    "description": "Often comes from paso de son, closed position where lead pivots the follow slightly facing the centre of the circle.",
     "youtubeLink": "https://www.youtube.com/shorts/n217YVPxQMg",
     "difficulty": 2,
     "categoryId": "turn-simple"
@@ -259,7 +259,7 @@
     "spanishName": "Pasito",
     "englishName": "Little step",
     "description": "Leader changes hands, leads follow in a right turn, then hooks left arm with follows right arm and rotates around for another 8 count, into dile que no to finish",
-    "youtubeLink": "",
+    "youtubeLink": "https://youtu.be/e_-4zJTf73w?t=16",
     "difficulty": 1,
     "categoryId": "turn-simple"
   },
@@ -354,10 +354,18 @@
   {
     "spanishName": "Montana",
     "englishName": "Mountain",
-    "description": "Lead switches hands and leads follow in a right turn, complete the 8 count, then across the next 8 count the lead turns follow left, followed by turning themselves to the right, followed by another left turn for the follow, into sombrero to finish.",
+    "description": "Lead follow in a sombrero right turn over first 8 count, followed by an enchufla and a right turn by the lead over the next 8 count, followed by another enchufla, into sombrero to finish.",
     "youtubeLink": "https://www.youtube.com/watch?v=AYHiFki5_5s",
     "difficulty": 2,
     "categoryId": "sequence"
+  },
+  {
+    "spanishName": "Balsero",
+    "englishName": "Boatman",
+    "description": "Lead follow in a sombrero right, then lead follow behind the lead in a clockwise direction, lead will bring their right arm over the head, into a second sombrero to finish.",
+    "youtubeLink": "https://www.youtube.com/watch?v=85gctfM107Y",
+    "difficulty": 2,
+    "categoryId": "turn-simple"
   },
   {
     "spanishName": "Directo",
@@ -366,14 +374,6 @@
     "youtubeLink": "https://www.youtube.com/watch?v=vJtpjq9WUUw",
     "difficulty": 1,
     "categoryId": "partner-exchange"
-  },
-  {
-    "spanishName": "Lazo con bulla",
-    "englishName": "Lasso with noise",
-    "description": "",
-    "youtubeLink": "",
-    "difficulty": 1,
-    "categoryId": "thematic"
   },
   {
     "spanishName": "Un fly",
